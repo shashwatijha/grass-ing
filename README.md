@@ -1,2 +1,3 @@
 # grass-ing
-1st fitbit clockface 
+Created a minimal fitbit clockface
+
